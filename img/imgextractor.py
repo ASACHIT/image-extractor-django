@@ -16,4 +16,4 @@ class Assets:
         return [self.url + str(link["src"]) for link in filtered_list]
 
 
-print(Assets("https://thenishantsapkota.github.io/about.html").pull_images())
+# print(Assets("https://thenishantsapkota.github.io/about.html").pull_images())
