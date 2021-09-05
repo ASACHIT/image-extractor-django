@@ -13,10 +13,7 @@
 ```
     
 ## Screenshots
-
-![App Screenshot](https://cdn.discordapp.com/attachments/881148108602503218/883957199506911292/ezgif-2-d1a112804ab2.gif)
 ![App Screenshot](https://cdn.discordapp.com/attachments/881148108602503218/883959833550802994/unknown.png)
-
   
 ## Demo
 
