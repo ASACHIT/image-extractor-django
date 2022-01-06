@@ -1,7 +1,7 @@
 
 # Image extractor
 
-### A simple image extractor webapp in django
+### A simple image extractor webapp in django. It scrapes all the image found in webpage
 
 ## Installation
 
@@ -16,4 +16,4 @@
 
 ## Screenshot
 
-![App Screenshot](https://cdn.discordapp.com/attachments/881148108602503218/883959833550802994/unknown.png)
+![App Screenshot](https://imgur.com/5hp2dwS.png)
